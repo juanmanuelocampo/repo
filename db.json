@@ -6,7 +6,7 @@
     "email": "Tyree_Monahan@yahoo.com",
     "fecnac": 1677693103,
     "activo": true,
-    "id": "1"
+    "id": 1
   },
   {
     "nombre": "Maud!!!",
@@ -14,7 +14,7 @@
     "email": "Robert.Smitham@gmail.com",
     "fecnac": 1677693043,
     "activo": true,
-    "id": "2"
+    "id": 2
   },
   {
     "nombre": "Keenan",
@@ -22,7 +22,7 @@
     "email": "Kirstin99@hotmail.com",
     "fecnac": 1677692983,
     "activo": false,
-    "id": "3"
+    "id": 3
   }
 ],
   "profesores": [
@@ -32,7 +32,7 @@
    "email": 1677693376,
    "fecnac": 1677693376,
    "activo": true,
-   "id": "1"
+   "id": 1
   },
   {
    "nombre": "Sydnie",
@@ -40,7 +40,7 @@
    "email": 1677693316,
    "fecnac": 1677693316,
    "activo": false,
-   "id": "2"
+   "id": 2
   },
   {
    "nombre": "Carlos",
@@ -48,34 +48,33 @@
    "email": 1677693256,
    "fecnac": 1677693256,
    "activo": true,
-   "id": "3"
+   "id": 3
   }  
  ],
   "cursos":[
   {
    "nombre": "Non Music",
-   "id": "1"
+   "id": 1
   },
   {
    "nombre": "Stage And Screen",
-   "id": "2"
+   "id": 2
   },
   {
    "nombre": "Metal",
-   "id": "3"
+   "id": 3
   },
   {
    "nombre": "Folk",
-   "id": "4"
+   "id": 4
   },
   {
    "nombre": "Blues",
-   "id": "5"
+   "id": 5
   },
   {
    "nombre": "Soul",
-   "id": "6"
+   "id": 6
   }
  ]
-
 }
